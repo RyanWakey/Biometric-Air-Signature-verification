@@ -1,4 +1,4 @@
-# Dissertation For Swansea University that earned me an 84% mark
+# Dissertation For Swansea University that earned an 84% mark
 
 Biometric Air Signature verification
 
